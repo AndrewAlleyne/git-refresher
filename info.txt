@@ -1,1 +1,5 @@
 info
+more information
+some more information
+some newer information
+Adding comment to the commit
